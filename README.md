@@ -1,10 +1,4 @@
-## Digital-Image-Processing-
 
-
-Process images through directory
-Scripts are used for Resizing, cropping, object detection and cropping.
-
-Object detection and cropping code still in initial phase needs lots of work
 
 
 
@@ -20,7 +14,7 @@ Image is then cropped based on Bouding Rectangle +- 50pixles to leave some room 
 ^-- posible improvments could consist of running script 2 times first with bounding rectangle +- 100pixles then +- 20pixeles as there were around 5 images that were         bounded in the middle there for lost (bad data)
 
 
-### UNITE RIO IMG SIZE
+### UNITE RIO IMG SIZE.py
 Simple loop to resize all the images of extracted RIO into similar sizes in respect to thier original Aspect Ratio 
 
 
