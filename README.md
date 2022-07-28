@@ -7,9 +7,13 @@
 ### RIO EXTRACTIOM.py :
 
 First image is converted into gray scale
+
 Then the use on Erosion, Dilation, and GaussianBlur to apply more accurite Canny
+
 Image threshold is applied to find contours and find Bounding rectangle
+
 Image is then cropped based on Bouding Rectangle +- 50pixles to leave some room around the images
+
 
 ^-- posible improvments could consist of running script 2 times first with bounding rectangle +- 100pixles then +- 20pixeles as there were around 5 images that were         bounded in the middle there for lost (bad data)
 
