@@ -2,6 +2,7 @@
 ## Extracting region of intrest within images
 
 ![example 1](1.jpg "Image Title")
+![example 1](1x.jpg "Image Title")
 
 
 ### RIO EXTRACTIOM.py :
