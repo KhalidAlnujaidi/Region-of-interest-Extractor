@@ -1,8 +1,7 @@
 
-
-
-
 ## Extracting region of intrest within images
+
+1.jpg
 
 ### RIO EXTRACTIOM.py :
 
