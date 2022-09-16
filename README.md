@@ -5,6 +5,9 @@
 ![example 1](1x.jpg "Image Title")
 
 
+![example 1](2.jpg "Image Title")
+![example 1](2x.jpg "Image Title")
+
 ### RIO EXTRACTIOM.py :
 
 First image is converted into gray scale
