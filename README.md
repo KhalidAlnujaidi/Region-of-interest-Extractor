@@ -3,13 +3,6 @@
 
 This code was used to conduct to assist in the research titled "Date Fruit Disease Detection Using Machile Learning". The porpose of this code was to clean up the images and remove unnecessary / unrelated features from the image.
 
-![example 1](1.jpg "Image Title")
-![example 1](1x.jpg "Image Title")
-
-
-![example 1](2.jpg "Image Title")
-![example 1](2x.jpg "Image Title")
-
 ![process_of_RIO_extractor](https://user-images.githubusercontent.com/93127443/201628971-a1f8b48a-73b0-45c7-ac52-7396a741f80e.png)
 
 
