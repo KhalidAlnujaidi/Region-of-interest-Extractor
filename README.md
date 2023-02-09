@@ -1,7 +1,7 @@
 
 ## Extracting region of intrest within images
 
-This code was used to conduct to assist in the research titled "Date Fruit Disease Detection Using Machile Learning". The porpose of this code was to clean up the images and remove unnecessary / unrelated features from the image.
+This code was used to conduct to assist in the research titled "Date Fruit Disease Detection Using Machile Learning". The porpose of this code was to clean up the images and remove unnecessary / unrelated features from the image. 900+ images were automaitcly processed with the code.
 
 ![process_of_RIO_extractor](https://user-images.githubusercontent.com/93127443/201628971-a1f8b48a-73b0-45c7-ac52-7396a741f80e.png)
 
